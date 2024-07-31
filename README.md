@@ -11,4 +11,4 @@ Insightful commentary on the impact of key events on NFT prices.
 
 You can access the deployed model and explore its analysis through the following link:
 
-[Click here to access the NFT-Cryptopunk_Analysis]()
+[Click here to access the NFT-Cryptopunk_Analysis](https://github.com/Deepanshu-analyst/NFT-Cryptopunk_Analysis)
