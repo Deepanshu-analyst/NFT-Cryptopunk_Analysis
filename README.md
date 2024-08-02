@@ -1,6 +1,6 @@
 **🖥️ NFT Price and Sales Data Analysis (SQL) 📊**
 
-In this repository, explore comprehensive SQL queries and analysis of NFT (Non-Fungible Token) price trends and sales data spanning four years. Dive into structured datasets to uncover insights into pricing dynamics, market trends, and transaction patterns within the evolving NFT landscape.
+In this project,i explored comprehensive SQL queries and analysis of NFT (Non-Fungible Token) price trends and sales data spanning four years. Dive into structured datasets to uncover insights into pricing dynamics, market trends, and transaction patterns within the evolving NFT landscape.
 
 **🔍 Key Features:**
 
