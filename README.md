@@ -1,4 +1,4 @@
-**Cryptopunk NFT Analysis Report**
+# Cryptopunk NFT Analysis Report
 
 In this project,i explored comprehensive SQL queries and analysis of NFT (Non-Fungible Token) price trends and sales data spanning four years. Dive into structured datasets to uncover insights into pricing dynamics, market trends, and transaction patterns within the evolving NFT landscape.
 
@@ -10,16 +10,18 @@ Visualizations and summaries of market trends over time.
 Insightful commentary on the impact of key events on NFT prices.
 Total Sales:
 
-# Between 2018 and 2021, there were X sales recorded, reflecting the rising interest in NFTs over time.
-Top 5 Highest Sales:
+**Between 2018 and 2021, there were X sales recorded, reflecting the rising interest in NFTs over time.**
+
+*Top 5 Highest Sales:*
 
 The top 5 highest-value Cryptopunk transactions based on USD price are:
-CryptoPunk #1139: Sold for $194,000 (59.90 ETH) on January 14, 2022.
-CryptoPunk #3874: Sold for $207,300 (63.95 ETH) on January 14, 2022.
-CryptoPunk #7969: Sold for $162,080 (50.00 ETH) on January 14, 2022.
-CryptoPunk #5231: Sold for $220,266 (67.95 ETH) on January 14, 2022.
-CryptoPunk #3193: Sold for $191,254 (59.00 ETH) on January 14, 2022.
-Sales Trend:
+1. CryptoPunk #1139: Sold for $194,000 (59.90 ETH) on January 14, 2022.
+2. CryptoPunk #3874: Sold for $207,300 (63.95 ETH) on January 14, 2022.
+3. CryptoPunk #7969: Sold for $162,080 (50.00 ETH) on January 14, 2022.
+4. CryptoPunk #5231: Sold for $220,266 (67.95 ETH) on January 14, 2022.
+5. CryptoPunk #3193: Sold for $191,254 (59.00 ETH) on January 14, 2022.
+
+*Sales Trend:*
 
 Over the years, there was a visible 25% increase in sales volume from 2019 to 2021. The market gained momentum, particularly in 2021, where sales peaked with X transactions.
 Price Trends and Moving Averages:
