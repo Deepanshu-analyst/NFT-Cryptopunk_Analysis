@@ -98,7 +98,7 @@ Most sales were clustered around the **50-70 ETH range**, demonstrating a common
 
 ## 🚀 **Explore the Full Project and Analysis**
 
-**[NFT Cryptopunk Analysis on GitHub Pages](https://Deepanshu-analyst.github.io/NFT-Cryptopunk_Analysis/)**  
+**[NFT Cryptopunk Analysis ](https://github.com/Deepanshu-analyst/NFT-Cryptopunk_Analysis)**  
 
 > *Crafted by Deepanshu to showcase NFT market insights and SQL analysis skills. Connect on [LinkedIn](https://www.linkedin.com/in/deepanshu-kushwaha/) for further details or collaboration.*
 
