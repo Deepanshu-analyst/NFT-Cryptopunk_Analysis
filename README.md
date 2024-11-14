@@ -1,5 +1,3 @@
-# 🖼️ Cryptopunk NFT Analysis Project
-
 > **A comprehensive analysis of Cryptopunk NFT sales trends from 2018-2021**  
 > *An insightful exploration of the evolving NFT marketplace*
 
