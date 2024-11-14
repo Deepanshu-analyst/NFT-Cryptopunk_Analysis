@@ -1,9 +1,5 @@
 # 🖼️ Cryptopunk NFT Analysis Project
 
-<p align="center">
-    <img src="https://github.com/Deepanshu-analyst/NFT-Cryptopunk_Analysis/blob/main/banner-image.png" alt="Cryptopunk NFT Analysis" width="600">
-</p>
-
 > **A comprehensive analysis of Cryptopunk NFT sales trends from 2018-2021**  
 > *An insightful exploration of the evolving NFT marketplace*
 
@@ -11,14 +7,14 @@
 
 ## 🔍 **Overview**
 
-Analyzed historical sales data from Cryptopunks using SQL to reveal trends in pricing, market behavior, and high-value transactions. This project provides **data-driven insights** into an expanding NFT market, helping stakeholders make informed investment decisions.
+Through structured SQL analysis, this project reveals essential insights into Cryptopunk price trends, high-value transactions, and market patterns. Designed for anyone navigating the expanding NFT market, this project provides a **data-driven perspective** on market dynamics.
 
 ### 📈 **Key Project Highlights**
 
-- **SQL Data Extraction & Transformation**: Designed and executed SQL scripts for structured analysis.
-- **Trend Analysis**: Examined price fluctuations, peak transaction times, and demand dynamics.
-- **Wallet & Transaction Analysis**: Identified high-value assets, top-performing Cryptopunks, and active wallets.
-- **Visualizations**: Created visual summaries for quick insight into price ranges, top transactions, and market patterns.
+- **SQL Data Extraction & Transformation**: Comprehensive SQL queries to shape and analyze the data.
+- **Trend Analysis**: Discovered seasonal price patterns, peak transaction times, and demand shifts.
+- **Transaction Patterns**: Identified key wallets and assets driving the NFT market.
+- **Visual Summaries**: Clean and precise visual descriptions for easy insight into findings.
 
 ---
 
@@ -26,66 +22,85 @@ Analyzed historical sales data from Cryptopunks using SQL to reveal trends in pr
 
 ### **💡 Situation**
 
-With the rapid rise of NFTs, understanding Cryptopunk sales trends is crucial for investors. By analyzing price and transaction data, this project provides a clearer picture of the NFT landscape.
+The rapid rise of NFTs, specifically Cryptopunks, has led to unprecedented sales and price volatility. Understanding these trends allows investors to make more informed decisions.
 
 ### **🎯 Task**
 
-Identify key insights on pricing trends, high-value assets, and market peaks to support informed decision-making for investors and enthusiasts.
+Extract, structure, and analyze Cryptopunk data to identify trends, high-value transactions, and peak sales times. Provide a reliable overview of price dynamics to enhance investor insight.
 
 ### **🚀 Action**
 
-- **Data Extraction and Transformation**: SQL queries structured the dataset for focused insights.
-- **Trend Analysis**: Calculated 50-period moving averages to capture smooth pricing trends.
-- **Transaction Analysis**: Detailed analysis of wallet activities and high-value sales.
-- **Visualization**: Displayed price distributions, monthly sales volumes, and more for clarity.
+- **Data Extraction and Transformation**: SQL queries used to extract and organize a large dataset for analysis.
+- **Moving Average Calculation**: A 50-period moving average smoothed price data for trend clarity.
+- **Transaction Analysis**: Focused on wallet activities and high-value sales.
+- **Price Bucketing**: Segmented transactions by ETH price to understand common price ranges.
 
 ### **🏆 Result**
 
-**Project Findings:**
-- **Sales Trend**: 25% increase in Cryptopunk sales from 2019 to 2021.
-- **Top Sales**: CryptoPunk #1139 and #3874 had record-breaking sales, reaching up to $220,000 USD.
-- **Active Wallets**: Wallet "0x1919db36..." showed extensive activity, a potential key market player.
-- **Popular Transaction Times**: Tuesdays and Thursdays were peak days for transactions.
+**Findings Summary**:
+- **Sales Trend**: 25% increase in sales volume from 2019 to 2021.
+- **Top Sales**: CryptoPunk #5231 reached a record sale price of $220,000.
+- **Active Wallets**: Wallet "0x1919db36..." displayed high transaction volume and net profit.
+- **Transaction Patterns**: Most sales occurred on Tuesdays and Thursdays, with ETH prices clustering around 50-70 ETH.
 
 ---
 
-## 📊 **Key Insights and Findings**
+## 📊 **Detailed Observations**
 
-| **Metric**                   | **Insight**                                                                                   |
-|------------------------------|-----------------------------------------------------------------------------------------------|
-| **Top Transaction**          | CryptoPunk #5231 sold for $220,000 on Jan 14, 2022                                           |
-| **Sales Volume Increase**    | 25% growth from 2019 to 2021                                                                  |
-| **High Activity Wallet**     | "0x1919db36..." with 130+ transactions                                                        |
-| **Top Transaction Days**     | Tuesdays and Thursdays had the highest sales                                                 |
-| **ETH Price Range**          | Most transactions clustered between 50-70 ETH                                                |
+### **1. Overall Sales Volume**
+
+*The dataset includes a total of 10,000 sales over four years (2018-2021).*
 
 ---
 
-## 📅 **Monthly Sales Volume**
-
-Sales volumes ranged from **$1M - $2.5M USD** monthly, peaking in specific months with volumes over **$3M USD**.  
-<p align="center">
-  <img src="https://github.com/Deepanshu-analyst/NFT-Cryptopunk_Analysis/blob/main/monthly-sales-volume.png" alt="Monthly Sales Volume" width="500">
-</p>
-
----
-
-## 🏆 **Profitability Analysis**
-
-The wallet "0x1919db36..." achieved an estimated **net profit of 45 ETH**—a testament to profitable trading strategies in the Cryptopunk market.
-
-<p align="center">
-  <img src="https://github.com/Deepanshu-analyst/NFT-Cryptopunk_Analysis/blob/main/profitability-analysis-chart.png" alt="Profitability Analysis" width="500">
-</p>
+### **2. Top 5 Highest Sales Transactions**
+| **CryptoPunk ID** | **Price (USD)** | **Price (ETH)** | **Date**             |
+|-------------------|-----------------|-----------------|----------------------|
+| 1139              | $194,000        | 59.90 ETH       | January 14, 2022     |
+| 3874              | $207,300        | 63.95 ETH       | January 14, 2022     |
+| 7969              | $162,080        | 50.00 ETH       | January 14, 2022     |
+| 5231              | $220,266        | 67.95 ETH       | January 14, 2022     |
+| 3193              | $191,254        | 59.00 ETH       | January 14, 2022     |
 
 ---
 
-## 🚀 **Explore More on GitHub Pages**
+### **3. Price Trends and Moving Averages**
 
-**[View Interactive Version of NFT Cryptopunk Analysis Project](https://Deepanshu-analyst.github.io/NFT-Cryptopunk_Analysis/)**
-
---- 
-
-> *Crafted by Deepanshu to showcase data analysis expertise in the NFT sector. Connect on [LinkedIn](https://www.linkedin.com/in/deepanshu-kushwaha/) for collaborations.*
+**50-Period Moving Average**: A calculated average revealed a rise in Cryptopunk prices during late 2020 and early 2021, reflecting the NFT market boom.  
+**Peak Pricing**: Average prices during peak periods approached $200,000, with significant volatility noted.
 
 ---
+
+### **4. Wallet & Profitability Analysis**
+
+The wallet address **0x1919db36...** recorded **130+ transactions** and achieved a **net profit of approximately 45 ETH**—an indicator of successful trading strategies.
+
+---
+
+### **5. Weekly Sales Patterns**
+
+Transactions peaked on **Tuesdays and Thursdays**, with higher ETH price averages compared to other days. These mid-week sales days indicate high buyer activity.
+
+---
+
+### **6. Sales Volume by ETH Price Range**
+
+| **Price Range (ETH)** | **Transaction Count** |
+|-----------------------|-----------------------|
+| 50-55                 | 600+                  |
+| 55-60                 | 750+                  |
+| 60-65                 | 850+                  |
+| 65-70                 | 900+                  |
+
+Most sales were clustered around the **50-70 ETH range**, demonstrating a common price bracket.
+
+---
+
+## 🚀 **Explore the Full Project and Analysis**
+
+**[NFT Cryptopunk Analysis on GitHub Pages](https://Deepanshu-analyst.github.io/NFT-Cryptopunk_Analysis/)**  
+
+> *Crafted by Deepanshu to showcase NFT market insights and SQL analysis skills. Connect on [LinkedIn](https://www.linkedin.com/in/deepanshu-kushwaha/) for further details or collaboration.*
+
+---
+
